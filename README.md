@@ -1,2 +1,2 @@
 # neovim
-Neovim files!
+Neovim files.
