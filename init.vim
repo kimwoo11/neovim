@@ -1,5 +1,8 @@
 """"vim-plug""""
 "" 
+""plug.vim
+""Don't forget to :PlugInstall (editor command) to install plug-ins 
+
 call plug#begin()
 
 Plug 'joshdick/onedark.vim'
@@ -23,7 +26,7 @@ set smartcase  "unless there are capitals
 
 set lines=55 columns=140
 
-map <F2> :NERDTreeToggle<CR> 
+map <F3> :NERDTreeToggle<CR> 
 
 "Navigation
 nmap <silent> <A-k> :wincmd k<CR>
