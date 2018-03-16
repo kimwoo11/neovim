@@ -1,5 +1,5 @@
 """"vim-plug""""
- 
+"" 
 call plug#begin()
 
 Plug 'joshdick/onedark.vim'
